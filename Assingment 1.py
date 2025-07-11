@@ -1,0 +1,6 @@
+int a=input("Enter a number")
+int b=input("Enter a number")
+print("Addition:"(a+b))
+print("Subraction:"(a-b))
+print("Multiplication:"(a*b))
+print("Division:"(a/b))
